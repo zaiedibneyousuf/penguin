@@ -1,0 +1,59 @@
+
+h1{
+    font-weight: 700;
+    font-size: 60px;
+    font-family: 'Bebas Neue', cursive;
+}
+.navbar-brand img{
+    width:65%;
+}
+.penguin{
+    color:rgba(240, 177, 59, 0.932);
+}
+.winter{
+    color:#052646d8;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    color:#052646d8;
+    font-size: 50px;
+    
+}
+.shopping-cart{
+    width:20%;
+}
+.buy{
+    margin-top: 10px;
+}
+.btn{
+    background-image: linear-gradient(180deg, rgb(92, 145, 42),  rgb(80,143,20));
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
+#wmj1{
+    width:90%;
+    height:55%;
+}
+
+#wmj2{
+    width: 90%;
+    height: 55%;
+}
+#wmj3{
+    width:90%;
+    height:55%;
+}
+#mj1{
+    width:90%;
+    height:55%;
+}
+#mj2{
+    width:90%;
+    height:55%;
+}
+#mj3{
+    width:90%;
+    height:55%;
+}
